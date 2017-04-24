@@ -27,7 +27,7 @@ Las evaluaciones se componen de:
 * Examen Final
 
 ## Bibliografía
-###Bibliografía Obligatoria:
+### Bibliografía Obligatoria:
 1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
 2.	 Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
 
