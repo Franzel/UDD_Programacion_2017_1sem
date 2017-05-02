@@ -10,10 +10,6 @@
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 
 # Próxima Semana
-### Lecturas Obligatorias
-
-
-
 ## Video sugerido
 * [Hello Processing](http://hello.processing.org)
 * [Hello World!](https://vimeo.com/60731302)
@@ -46,6 +42,6 @@ crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de ref
 subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 08 de Mayo, previo al curso.
 
 **Evaluación:**
-Entregas tardías bajan 1 punto diario. Serán aceptadas hasta dos días después de la fecha y hora de entrega. Cumplido ese plazo, serán calificadas con nota 1.0
+Entregas tardías bajan 1 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 
 *« volver [al home del repositiorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
