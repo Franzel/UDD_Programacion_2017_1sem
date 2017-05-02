@@ -5,8 +5,8 @@
 * IDE de Processing
 * Sintaxis y convenciones
 * Comentarios
-* Funciones de dibujo y Forma
-* Funciones de apariencia `fill(), noFill(), stroke(), noStroke()`
+* Funciones de dibujo y Forma `point(), line(), ellipse(), rect(), quad(), arc(), triangle()`
+* Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 
 
 # Próxima Semana
@@ -47,3 +47,5 @@ subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnv
 
 **Evaluación:**
 Entregas tardías bajan 1 punto diario. Serán aceptadas hasta dos días después de la fecha y hora de entrega. Cumplido ese plazo, serán calificadas con nota 1.0
+
+*« volver [al home del repositiorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
