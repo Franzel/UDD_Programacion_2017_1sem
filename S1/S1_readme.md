@@ -1,6 +1,7 @@
 ### Programación 2017
 # Semana 01
 * Introducción alumnos, profesor y ayudante
+* Logística, reglas de la casa y herramientas para el curso
 * Introducción y Conceptos [ver Google Slides](https://github.com/Franzel/UDD_Programacion_2017_1sem)
 * IDE de Processing
 * Sintaxis y convenciones
@@ -8,9 +9,8 @@
 * Funciones de dibujo y Forma `point(), line(), ellipse(), rect(), quad(), arc(), triangle()`
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 
-
 # Próxima Semana
-## Lecturas Obligatorias
+### Lecturas Obligatorias
 
 
 
