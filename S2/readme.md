@@ -11,16 +11,13 @@
   * `framerate()`
   * `random()` aplicado a Variables
 * Interacción básica con `mouseX, mouseY`
-* Estructuras de control:
-  * For loops
-  * Condicionales `if, else, else if`
-  * Eventos de teclado `keyPressed(), mousePressed()`
+* Eventos de teclado `keyPressed(), mousePressed()`
 * Data Types: `int, float, boolean`
 
 
 # Próxima Semana
 ### Lecturas Obligatorias
-
+* [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
 
 # Encargo Semana 02
 

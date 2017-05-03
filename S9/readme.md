@@ -1,7 +1,10 @@
 ### Programación 2017
 # Semana 09
-
-* Presentación Examen
+* Día de Examen
+  * Se trabaja 1 hora en preparación del examen
+  * Cada alumno presenta en 4 minutos su proyecto
+  * Responde a las preguntas
+  * Feedback de los compañeros
 * Celebración
 
 

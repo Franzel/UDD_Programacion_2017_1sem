@@ -23,7 +23,7 @@
 
 # Entrega 01: clonArte
 
-Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de  400x400 pixeles, utilizando estas funciones:
+Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de  400x400 pixeles, utilizando estas funcionµes:
 
 	* background()
 	* stroke()
@@ -35,12 +35,12 @@ Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una 
 	* ellipse()
 	* arc()
 
-**Formato de entrega:**
-crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing.
-La imagen debe ser de 400x400 pixeles, en formato JPG
+**Formato de entrega:** 
+* Crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing.
+* La imagen debe ser de 400x400 pixeles, en formato JPG
 
 **Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 08 de Mayo, previo al curso.
+* Subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 15 de Mayo, previo al curso.
 
 **Evaluación y multas:**
 * Entregas tardías bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
