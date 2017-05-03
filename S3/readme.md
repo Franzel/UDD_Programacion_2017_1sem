@@ -14,4 +14,4 @@
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)
 
 
-*« volver [al home del repositiorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+*« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*

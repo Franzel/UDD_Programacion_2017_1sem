@@ -1,5 +1,5 @@
 ### Programación 2017
 # Semana 07
-* Trabajo en examen
+* Trabajo en eExamen
 
-*« volver [al home del repositiorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+*« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*

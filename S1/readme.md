@@ -47,4 +47,4 @@ subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnv
 * Entregas que no sigan los formatos o especificaciones descritas tendrán una multa de -0.5 puntos
 
 
-*« volver [al home del repositiorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+*« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
