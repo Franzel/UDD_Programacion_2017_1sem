@@ -208,3 +208,14 @@ Desarrollar un ejercicio de experimentación que incluya el código aprendido ha
 
 
 ###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+
+---
+---
+# Potenciales ejercicios
+
+- Palabra-Concepto-Visualizacion
+	- Buscar un a palabra en el diccionario y representarla visualmente a través de un sketch de processing. Se debe integrar un grado de interacción al sketch, ya sea via mouse o teclado para modificar la forma de la composición.
+
+	- Representar un antónimo o concept opuesto al interactuar??
+
+- Create a design with two shapes in black and white representing the words ‘wet’ and ‘sharp’. The shapes have to be created with the beginShape() and endShape() functions.
