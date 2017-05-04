@@ -16,10 +16,13 @@
 
 
 ### Encargo 00: código análogo
+* Inicio: Semana 01
 * Calificación: **5%** (del 70% nota final)
 
 
+
 ### Encargo 01: clonArte
+* Inicio: Semana 01
 * Calificación: **10%** (del 70% nota final)
 * Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
 
@@ -34,6 +37,7 @@
 	* arc()
 
 ### Encargo 02: hyperBrush
+* Inicio: Semana 02
 * Calificación: **20%** (del 70% nota final)
 * Crear una herramienta de dibujo creativa. Debe ser un pincel de dibujo en esteroides
 * Debe tener los siguientes capacidades:
@@ -44,18 +48,21 @@
 	* Si se usa `random()`, deberá usarse con intención y moderación.
 
 
-### Encargo 03: sinTanCos
+### Encargo 03: el baile de sinTanCos
+* Inicio: Semana 04
 * Calificación: **25%** (del 70% nota final)
-* Crear una pieza visual e interactiva con el uso de `sin, cos, y tan`. Debe tener algún nivel de interacción y debe incluir la posibilidad de exportar una composición en pdf, para poder posteriormente immprimir la visualización
+* Crear una pieza audiovisual e interactiva con el uso de `sin, cos, y tan`, inspirada en el trabajo de John Whitney y los algoritmo de Lissajous. A través de la interacción modificaremos ciertos parámetros que a su vez alterarán la animación y composición visual.
 
 
 
 ### Encargo 04: parametrico
+* Inicio: Semana 05
 * Calificación: **30%** (del 70% nota final)
 * Crear un sistema Paramétrico que permita la generación de múltiples entes. El sistema de definirá las reglas básicas y ya se a a través de modificación manual o automática de parámetros, cada ente será único en su diseño.
 * Se podrá tomar inspiración de la naturaleza (ej. mariposas) o de sistemas sintéticos (ej. arquitectura), pero la idea es que la composición final sea lo más atractiva e interesante posible desde un punto de vista estético.
 
 ### Examen:
+* Inicio: Semana 06
 * Calificación: **30%** de la nota final del curso
 
 
