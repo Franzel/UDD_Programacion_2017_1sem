@@ -10,15 +10,17 @@ Se dicta en el ciclo de Bachillerato, pertenece a la línea 'Representación y M
 Junto con los conocimientos introductorios al pensamiento computacional, este curso desarrolla en los estudiantes las habilidades o competencias de **Creatividad** y **Dominio de Herramientas Metodológicas**. El desarrollo de dichas competencias es parte del modelo educativo de la Facultad de Diseño.
 
 ## Formato y Duración
-* El curso se dicta a lo largo de 8 semanas.
+* El curso se dicta a lo largo de 9 semanas.
 * Previo a cada clase, los estudiantes deberán completar las lecturas (y revisión de material bibliográfico en video) asignados para cada sesión.
-* Durante cada sesión, se desarrollarán ejercicios prácticos
+* Durante cada sesión, se desarrollarán ejercicios prácticos.
 * A través de la discusión guiada y el análisis de dichos ejercicios, se desarrolla el aprendizaje.
 
 ## Evaluación
-Existirán al menos 3 evaluaciones calificadas durante el semestre, que en su totalidad deberán sumar el 100% de la Nota de Presentación a Examen.
-Esta a su vez equivaldrá al 70% de la nota final del ramo.
-Ninguna evaluación podrá, por sí sola, ponderar más del 25% de la nota total del curso.
+Existirán al menos 3 evaluaciones calificadas durante el semestre, que en su totalidad sumarán el 100% de la Nota de Presentación a Examen.
+Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
+
+La Nota de Presentación a Examen corresponde al 70% de la nota final del ramo, y el examen corresponde al 30% restante.
+
 
 Las evaluaciones se componen de:
 
@@ -33,4 +35,4 @@ Las evaluaciones se componen de:
 
 ### Bibliografía Complementaria:
 1.	Processing Foundation. Descargar Processing. Recuperado: 27 de Abril 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
-2.	Programación Creativa con Processing. Recuperado: 13 de agosto de 2015 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
+2.	Programación Creativa con Processing. Recuperado: 27 de Agosto de 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
