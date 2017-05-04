@@ -29,7 +29,7 @@ Material previo a la iniciación del curso.
 
 ### **Entrega 01: clonArte**
 
-Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de  400x400 pixeles, utilizando estas funcionµes:
+Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
 
 	* background()
 	* stroke()
@@ -42,15 +42,22 @@ Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una 
 	* arc()
 
 **Formato de entrega:**
-* Crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing.
+* Crear un archivo comprimido .zip conteniendo la imagen de referencia y el sketch de Processing.
+* La carpeta utilizará la siguiente nomenclatura: `E01_apellido_Nombre.zip`
 * La imagen debe ser de 400x400 pixeles, en formato JPG
+* En las primeras líneas del sketch de processing se especificará el nombre de la obra, el autor, y el URL a la imagen original
 
 **Dónde entregar:**
-* Subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 15 de Mayo, previo al curso.
+* Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 15 de Mayo, previo al curso.
 
 **Evaluación y multas:**
-* Entregas tardías bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
-* Entregas que no sigan los formatos o especificaciones descritas tendrán una multa de -0.5 puntos
+* **Criterios de evaluación:**
+	* Selección y complejidad de imagen. Si es desafiante, mejor.
+	* Fidelidad de traducción: qué tan parecida es.
+	* Interpretación: muchas veces la reproducción no puede ser exacta (ej. caso de texturas), se medirá la capacidad de interpretar.
+	* Limpieza, depuración y nivel de comentarios del código
+* **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+* **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
 
 ###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
@@ -211,11 +218,3 @@ Desarrollar un ejercicio de experimentación que incluya el código aprendido ha
 
 ---
 ---
-# Potenciales ejercicios
-
-- Palabra-Concepto-Visualizacion
-	- Buscar un a palabra en el diccionario y representarla visualmente a través de un sketch de processing. Se debe integrar un grado de interacción al sketch, ya sea via mouse o teclado para modificar la forma de la composición.
-
-	- Representar un antónimo o concept opuesto al interactuar??
-
-- Create a design with two shapes in black and white representing the words ‘wet’ and ‘sharp’. The shapes have to be created with the beginShape() and endShape() functions.
