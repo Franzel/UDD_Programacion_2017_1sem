@@ -64,7 +64,7 @@ Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una 
 
 ---
 # Programación 2017 - Semana 02
-
+## Contenido de Hoy
 * Variables
 * Operaciones matemáticas en consola
 * Coordenadas y matriz espacial
@@ -89,7 +89,7 @@ Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una 
 ---
 
 # Programación 2017 - Semana 03
-
+## Contenido de Hoy
 * Discusión texto Apropiación y Diseño
 * Revisión Entrega 01
 * Repaso semana anterior
@@ -131,7 +131,7 @@ Desarrollar una composición gráfica, tamaño de 800x600 pixeles, donde se util
 
 ---
 # Programación 2017 - Semana 04
-
+## Contenido de Hoy
 * Arrays
   * Arrays unidimensionales
   * Arrays bidimensionales
@@ -143,7 +143,7 @@ Desarrollar una composición gráfica, tamaño de 800x600 pixeles, donde se util
 
 ---
 # Programación 2017 - Semana 05
-
+## Contenido de Hoy
 * Arrays y For loops
 * Incorporación de Imágenes y Fuentes
 * `OOP` Introducción a la Programación Orientada a Objetos
@@ -171,6 +171,7 @@ Desarrollar un ejercicio de experimentación que incluya el código aprendido ha
 
 ---
 # Programación 2017 - Semana 06
+## Contenido de Hoy
 * OOP segunda Parte
 * Arrays en el contexto de OOP
 * Arraylists
@@ -190,6 +191,7 @@ Desarrollar un ejercicio de experimentación que incluya el código aprendido ha
 
 ---
 # Programación 2017 - Semana 07
+## Contenido de Hoy
 * Cada alumno presenta en 2 minutos acerca de su proyecto de Examen
 * Trabajo práctico en Examen
 
@@ -198,6 +200,7 @@ Desarrollar un ejercicio de experimentación que incluya el código aprendido ha
 
 ---
 # Programación 2017 - Semana 08
+## Contenido de Hoy
 * Cada alumno presenta en 2 minutos los avances de su proyecto
 * Trabajo en Examen
 
@@ -206,6 +209,7 @@ Desarrollar un ejercicio de experimentación que incluya el código aprendido ha
 
 ---
 # Programación 2017 - Semana 09
+## Contenido de Hoy
 * Día de Examen
   * Se trabaja 1 hora en preparación del examen
   * Cada alumno presenta en 4 minutos su proyecto
