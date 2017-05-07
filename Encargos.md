@@ -39,7 +39,7 @@
 ### Encargo 02: hyperBrush
 * Inicio: Semana 02
 * Calificación: **20%** (del 70% nota final)
-* Crear una herramienta de dibujo creativa. Debe ser un pincel de dibujo en esteroides
+* Crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides
 * Debe tener los siguientes capacidades:
 	* Poder dibujar o no dibujar a discreción
 	* Poder borrar el canvas, partir de cero
