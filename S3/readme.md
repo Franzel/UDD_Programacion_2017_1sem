@@ -1,9 +1,8 @@
-### Programación 2017
-# Semana 03
-
-* Discusión texto Apropiación y Diseño
-* Revisión Entrega 01
+# Programación 2017 - Semana 03
+## Contenido de Hoy
+* Revisión Entrega 02
 * Repaso semana anterior
+* Color modes `RGB, HSB`
 * Funciones: qué son, por qué son útiles, funciones con return y sin return
 * Estructuras de control:
   * For loops : Unidimensional vs bidimensional
@@ -12,14 +11,10 @@
 	* Eventos de mouse `mouseX, mouseY`
 	* Eventos de teclado
 * Operador matemático: módulo `%`
-* Color modes `RGB, HSB`
 
-# Próxima Semana
-## Video Sugerido
+## Para la próxima semana
+### Video Sugerido
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)
 
 
-
-
-
-*« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
