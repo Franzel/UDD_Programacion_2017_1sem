@@ -3,10 +3,12 @@
 * Introducción alumnos, profesor y ayudante
 * Ejemplos de Obras y proyectos hechos con programación
 * Logística, reglas de la casa y herramientas para el curso
-* Processing.org - referencia de Processing.
-* IDE de Processing, orden de carpetas.
+* Processing.org - referencia de Processing
+* IDE de Processing, orden de carpetas
+* La consola
 * Sintaxis y convenciones
 * Comentarios
+* Coordenadas
 * Funciones de dibujo y Forma `point(), line(), ellipse(), rect(), quad(), arc(), triangle()`
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 
@@ -59,4 +61,4 @@
 
 
 
-*« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
