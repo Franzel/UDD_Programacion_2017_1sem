@@ -17,8 +17,6 @@
 
 
 ## Para la próxima Semana
-### Lecturas Obligatorias
-* [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
 
 ### Encargo 02: hyperBrush
 * Inicio: Semana 02
