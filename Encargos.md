@@ -73,3 +73,38 @@
 	* Ingeniería inversa: dibujo de composición vía variables
 	* Ingeniería inversa: recreación de composición animada vía ´sin cos´
 	* Ingeniería inversa: Líneas random() horizontales
+
+	---
+	---
+	---
+	### **Entrega 02: de lo simple a lo complejo a lo simple**
+	Desarrollar una composición gráfica, tamaño de 800x600 pixeles, donde se utilicen creativamente:
+
+		* variables
+		* parámetros
+		* estructura if/else
+		* Al menos 1 evento de mouse y 1 evento de teclado
+	  **Formato de entrega:**
+	  * Crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing.
+	  * La imagen debe ser de 400x400 pixeles, en formato JPG
+
+	  **Dónde entregar:**
+	  * Subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 29 de Mayo, previo al curso.
+
+	  **Evaluación y multas:**
+	  * Entregas tardías bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+	  * Entregas que no sigan los formatos o especificaciones descritas tendrán una multa de -0.5 puntos
+
+
+		### **Entrega 03+04: Objetos que  Funcionan**
+		Desarrollar un ejercicio de experimentación que incluya el código aprendido hasta ahora. Debe utilizar un loop que llame a objetos y sus métodos.
+		**Formato de entrega:**
+		* Crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing.
+		* La imagen debe ser de 400x400 pixeles, en formato JPG
+
+		**Dónde entregar:**
+		* Subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 29 de Mayo, previo al curso.
+
+		**Evaluación y multas:**
+		* Entregas tardías bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+		* Entregas que no sigan los formatos o especificaciones descritas tendrán una multa de -0.5 puntos
