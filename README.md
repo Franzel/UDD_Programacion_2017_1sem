@@ -17,6 +17,9 @@ Junto con los conocimientos introductorios al pensamiento computacional, este cu
 
 ## Evaluación
 Existirán al menos 3 evaluaciones calificadas durante el semestre, que en su totalidad sumarán el 100% de la Nota de Presentación a Examen.
+
+Un 10% de la nota de presentación al examen corresponde a Participacion y Proactividad.
+
 Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 
 La Nota de Presentación a Examen corresponde al 70% de la nota final del ramo, y el examen corresponde al 30% restante.
