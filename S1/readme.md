@@ -6,6 +6,7 @@
 * Processing.org - referencia de Processing
 * IDE de Processing, orden de carpetas
 * La consola
+* Operaciones matemáticas en consola
 * Sintaxis y convenciones
 * Comentarios
 * Coordenadas
