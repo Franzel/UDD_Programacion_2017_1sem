@@ -34,5 +34,5 @@ Las evaluaciones se componen de:
 2.	 Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
 
 ### Bibliografía Complementaria:
-1.	Processing Foundation. Descargar Processing. Recuperado: 27 de Abril 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
-2.	Programación Creativa con Processing. Recuperado: 27 de Agosto de 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
+1.	Processing Foundation. Descargar Processing. Recuperado: 7 de Mayo 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
+2.	Programación Creativa con Processing. Recuperado: 7 de Mayo 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
