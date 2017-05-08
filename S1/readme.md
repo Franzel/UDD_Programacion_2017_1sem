@@ -28,10 +28,9 @@
 	* [CREATIVE APPLICATIONS NETWORK](http://www.creativeapplications.net/)
 
 ### Encargo 01: clonArte
-	  * Inicio: Semana 01
-	  * Calificación: **15%** (del 70% nota final)
-
-Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
+* Inicio: Semana 01
+* Calificación: **15%** (del 70% nota final)
+* Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
 
 	* background()
 	* stroke()
