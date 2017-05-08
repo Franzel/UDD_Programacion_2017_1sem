@@ -16,20 +16,26 @@ Junto con los conocimientos introductorios al pensamiento computacional, este cu
 * A través de la discusión guiada y el análisis de dichos ejercicios, se desarrolla el aprendizaje.
 
 ## Evaluación
-Existirán al menos 3 evaluaciones calificadas durante el semestre, que en su totalidad sumarán el 100% de la Nota de Presentación a Examen.
 
-Un 10% de la nota de presentación al examen corresponde a Participacion y Proactividad.
+Las evaluaciones se componen de:
+* Encargos semanales
+* Participación constante de cada estudiante
+* Examen Final
+
+Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su totalidad sumarán el 100% de la Nota de Presentación a Examen.
+
+Un 10% de la nota de Presentación al Examen corresponde a Participación y Proactividad(ver más abajo)
 
 Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 
-La Nota de Presentación a Examen corresponde al 70% de la nota final del ramo, y el examen corresponde al 30% restante.
+La Nota de Presentación a Examen corresponde al 70% de la nota final del ramo, y el Examen corresponde al 30% restante.
 
+En la mayoría de las clases existirá un ¨Desafío¨, que busca desarrollar habilidades para conocimientos técnicos específicos. Estas no serán calificadas, pero se considerarán dentro de Participación y Proactividad (ver abajo)
 
-Las evaluaciones se componen de:
-
-* Participación constante de cada estudiante
-* Ejercicios semanales
-* Examen Final
+#### Participación y proactividad
+* Calificación: **10%** (del 70% nota final)
+* Se evaluará la participación en clases, el nivel de aporte a la clase y la colaboración con compañeros.
+* Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al propio trabajo y al de sus pares.
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
