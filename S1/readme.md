@@ -13,7 +13,7 @@
 * Funciones de dibujo y Forma `point(), line(), ellipse(), rect(), quad(), arc(), triangle()`
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 
-# Próxima Semana
+## Para la próxima semana
 ### Video sugerido
 * [Hello Processing](http://hello.processing.org)
 * [Hello World!](https://vimeo.com/60731302)
@@ -27,7 +27,9 @@
 	* [SOUND MACHINES - THE PRODUCT](http://www.creativeapplications.net/processing/soundmachines-objects-sound/)
 	* [CREATIVE APPLICATIONS NETWORK](http://www.creativeapplications.net/)
 
-### **Entrega 01: clonArte**
+### Encargo 01: clonArte
+	  * Inicio: Semana 01
+	  * Calificación: **15%** (del 70% nota final)
 
 Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
 
