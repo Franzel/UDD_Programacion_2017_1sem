@@ -52,7 +52,7 @@
 * Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 15 de Mayo, previo al curso.
 
 **Evaluación y multas:**
-* **Criterios de evaluación:**Â
+* **Criterios de evaluación:**
 	* Selección y complejidad de imagen. Si es desafiante, mejor.
 	* Fidelidad de traducción: qué tan parecida es.
 	* Interpretación: muchas veces la reproducción no puede ser exacta (ej. caso de texturas), se medirá la capacidad de interpretar.
