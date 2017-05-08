@@ -13,13 +13,18 @@
   * [JOHN WHITNEY - EXPERIMENTS IN MOTION GRAPHICS](https://www.youtube.com/watch?v=TbV7loKp69s)
 
 ## Para la próxima semana
-### Encargo 03: el baile de sinTanCos
+### Encargo 03: sinTanCos
   * Inicio: Semana 04
   * Calificación: **25%** (del 70% nota final)
   * Crear una pieza audiovisual e interactiva con el uso de `sin, cos, y tan`, inspirada en el trabajo de John Whitney y los algoritmo de Lissajous. A través de la interacción modificaremos ciertos parámetros que a su vez alterarán la animación y composición visual.
+  Se debe agregar un track de musica a la pieza que sea acorde a la animación diseñada.
+
+  **Formato de entrega:**
+  * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E03_apellido_Nombre.zip`**
+  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre dekl sketch
 
   **Dónde entregar:**
-    * Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/DzD9Hs8ScWzIFVzJfbT5) antes de las 10:00 del Lunes 5 de Junio, previo al curso.
+    * Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/DzD9Hs8ScWzIFVzJfbT5) antes de las 10:00 del Lunes 5 de Junio, previo al curso.
 
 
   **Evaluación y multas:**

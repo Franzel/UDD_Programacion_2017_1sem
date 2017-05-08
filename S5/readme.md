@@ -17,8 +17,13 @@
 * Calificación: **30%** (del 70% nota final)
 * Crear un sistema Paramétrico que permita la generación de múltiples entes. El sistema de definirá las reglas básicas y ya se a a través de modificación manual o automática de parámetros, cada ente será único en su diseño.
 * Se podrá tomar inspiración de la naturaleza (ej. mariposas) o de sistemas sintéticos (ej. arquitectura), pero la idea es que la composición final sea lo más atractiva e interesante posible desde un punto de vista estético.
+
+**Formato de entrega:**
+  * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E04_apellido_Nombre.zip`**
+  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre dekl sketch
+
 **Dónde entregar:**
-  * Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/hR2bJkuKNUlEsBEH8hnE) antes de las 10:00 del Lunes 5 de Junio, previo al curso.
+  * Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/UpKFUTJLE6Kzo10CHqGN) antes de las 10:00 del Lunes 12 de Junio, previo al curso.
 
 
 **Evaluación y multas:**

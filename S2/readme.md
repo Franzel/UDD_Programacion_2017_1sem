@@ -29,14 +29,14 @@
 	* Cambio de Color, ya sea automático o con Control
 	* Mientras más expresiva sea la herramienta, mejor.
 	* Si se usa `random()`, deberá usarse con intención y moderación.
-  **Formato de entrega:**
-  * Crear un archivo comprimido .zip conteniendo la imagen de referencia y el sketch de Processing.
-  * La carpeta utilizará la siguiente nomenclatura: `E01_apellido_Nombre.zip`
-  * La imagen debe ser de 400x400 pixeles, en formato JPG
-  * En las primeras líneas del sketch de processing se especificará el nombre de la obra, el autor, y el URL a la imagen original
+
+
+**Formato de entrega:**
+  * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E02_apellido_Nombre.zip`**
+  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre dekl sketch
 
 **Dónde entregar:**
-  * Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/UpKFUTJLE6Kzo10CHqGN) antes de las 10:00 del Lunes 22 de Mayo, previo al curso.
+  * Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/UpKFUTJLE6Kzo10CHqGN) antes de las 10:00 del Lunes 22 de Mayo, previo al curso.
 
 
   **Evaluación y multas:**
