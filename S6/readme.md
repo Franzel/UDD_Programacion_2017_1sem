@@ -1,5 +1,5 @@
-### Programación 2017
-# Semana 06
+# Programación 2017 - Semana 06
+## Contenido de Hoy
 * OOP segunda Parte
 * Arrays en el contexto de OOP
 * Arraylists

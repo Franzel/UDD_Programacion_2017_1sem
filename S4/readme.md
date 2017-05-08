@@ -1,10 +1,9 @@
-### Programación 2017
-# Semana 04
-
+# Programación 2017 - Semana 04
+## Contenido de Hoy
 * Arrays
   * Arrays unidimensionales
   * Arrays bidimensionales
   * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
   * Strings
 
-*« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
