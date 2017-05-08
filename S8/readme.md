@@ -7,5 +7,9 @@
   * Feedback de los compañeros
 * Celebración
 
+* Más referentes:
+	* [JOHN WHITNEY](https://www.youtube.com/watch?v=TbV7loKp69s)
+
+
 
 *« volver [al home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
