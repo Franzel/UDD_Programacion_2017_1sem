@@ -2,6 +2,7 @@
 
 /// manera basica de declarar una variable
 int x;       //le estamos pidiendo al computador que guarde espacio en su memoria para un int llamado "x"
+
 float posX;  //idem, para un float llamado "xPos"
 
 //Shortcut para declarar mas de una variable al mismo tiempo
