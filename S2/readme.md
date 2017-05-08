@@ -1,6 +1,7 @@
 # Programación 2017 - Semana 02
 ## Contenido de Hoy
 * Revisión Encargo 01
+* Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 * Variables
 * Operaciones matemáticas en consola
 * Coordenadas y matriz espacial
