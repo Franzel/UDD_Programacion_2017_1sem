@@ -1,5 +1,5 @@
-### Programación 2017
-# Semana 09
+# Programación 2017 - Semana 08
+## Contenido de Hoy
 * Día de Examen
   * Se trabaja 1 hora en preparación del examen
   * Cada alumno presenta en 4 minutos su proyecto
@@ -7,8 +7,7 @@
   * Feedback de los compañeros
 * Celebración
 
-* Más referentes:
-	* [JOHN WHITNEY](https://www.youtube.com/watch?v=TbV7loKp69s)
+
 
 
 

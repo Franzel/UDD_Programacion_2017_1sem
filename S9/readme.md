@@ -1,5 +1,5 @@
-### Programación 2017
-# Semana 09
+# Programación 2017 - Semana 09
+## Contenido de Hoy
 * Día de Examen
   * Se trabaja 1 hora en preparación del examen
   * Cada alumno presenta en 4 minutos su proyecto
