@@ -1,5 +1,5 @@
-### Programación 2017
-# Semana 01
+### Programación 2017 - Semana 01
+## Contenido de Hoy
 * Introducción alumnos, profesor y ayudante
 * Ejemplos de Obras y proyectos hechos con programación
 * Logística, reglas de la casa y herramientas para el curso
