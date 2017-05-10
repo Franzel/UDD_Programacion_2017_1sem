@@ -17,7 +17,7 @@
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)
 
 ### Encargo 03: hyperBrush
-* Inicio: Semana 02
+* Inicio: Semana 03
 * Calificación: **20%** (del 70% nota final)
 * En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides
 * Debe tener los siguientes capacidades:
