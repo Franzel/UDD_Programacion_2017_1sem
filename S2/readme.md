@@ -2,11 +2,11 @@
 ## Contenido de Hoy
 * Revisión Encargo 01
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
-* Variables
+* `random()`
 * Operaciones matemáticas en consola
-* Coordenadas y matriz espacial
-* Variables
-* Modo continuo y variables
+* Variables en modo estático
+* Modo dinámico
+* Variables en modo dinámico
 * Funciones
   * `setup(), draw()`
   * `framerate()`
