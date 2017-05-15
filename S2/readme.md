@@ -20,7 +20,7 @@
 
 ## Para la próxima Semana
 ### Encargo 02: clonArte
-* Inicio: Semana 01
+* Inicio: Semana 02
 * Calificación: **10%** (del 70% nota final)
 * Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
 
