@@ -2,7 +2,7 @@
 // Tienen la siguiente estructura:
 
 /*
-En esta parte superior declaramos las variablesque pueden ser
+En esta parte superior declaramos las variables que pueden ser
 usadas en cualquier parte del sketch
 */
 
