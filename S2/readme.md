@@ -36,7 +36,7 @@
 
 **Formato de entrega:**
 * Crear un archivo comprimido .zip conteniendo la imagen de referencia y el sketch de Processing.
-* La carpeta utilizará la siguiente nomenclatura: **`E02_apellido_Nombre.zip`**
+* La carpeta utilizará la siguiente nomenclatura: **`E02_Apellido_Nombre.zip`**
 * La imagen debe ser de 400x400 pixeles, en formato JPG
 * En las primeras líneas del sketch de processing se especificará el nombre de la obra, el autor, y el URL a la imagen original
 
