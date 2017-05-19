@@ -11,10 +11,6 @@
   * `setup(), draw()`
   * `framerate()`
   * `random()` aplicado a Variables
-  * Crear una función propia
-  * Funciones: qué son, por qué son útiles, funciones con return y sin return
-* Interacción básica con `mouseX, mouseY`
-* Eventos de teclado `keyPressed(), mousePressed()`
 * Data Types: `int, float, boolean`
 
 
