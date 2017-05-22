@@ -7,7 +7,6 @@ void draw(){
   dibujar(0,0,100);
   dibujar(40,0,20);
   dibujar(100,100,38);
-  dibujar(mouseX, mouseY, 10);
 }
 
 void dibujar(float x, float y, float s){
