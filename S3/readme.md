@@ -2,19 +2,19 @@
 ## Contenido de Hoy
 * Revisión Entrega 02
 * Rápido repaso semana anterior
-* Color modes `RGB, HSB`
+* Interacción básica de usuario
+	* Eventos de mouse `mouseX, mouseY`
+	* Eventos de teclado `keyPressed(), mousePressed()`
 * Funciones 2:
   * Funciones: qué son, por qué son útiles, funciones con return y sin return
   * Crear una función propia
 * Data Types: `int, float, boolean`
-* Interacción básica de usuario
-	* Eventos de mouse `mouseX, mouseY`
-	* Eventos de teclado `keyPressed(), mousePressed()`
-* Estructuras de control:
+* Estructuras de control 1:
   * For loops : Unidimensional y bidimensional, uso de funciones en un For Loop
   * Condicionales `if, else, else if`
 * Operador matemático: módulo `%`
 * Strings
+* Color modes `RGB, HSB`
 
 ## Para la próxima semana
 ### Video Sugerido
@@ -33,8 +33,8 @@
 
 
 **Formato de entrega:**
-  * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E03_apellido_Nombre.zip`**
-  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre dekl sketch
+  * La carpeta que se entrega debe contener el sketch, ambos utilizarán la siguiente nomenclatura: **`E03_apellido_Nombre.zip`**
+  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
 
 **Dónde entregar:**
   * Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/UpKFUTJLE6Kzo10CHqGN) antes de las 10:00 del Lunes 29 de Mayo, previo al curso.
