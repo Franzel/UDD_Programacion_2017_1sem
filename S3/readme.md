@@ -24,6 +24,7 @@
 * Inicio: Semana 03
 * Calificación: **20%** (del 70% nota final)
 * En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides
+* se debe diseñar en base a un a funcion, es decir, todo lo que pinte debera ir en la funcion de dibujar(o como se llame)
 * Debe tener los siguientes capacidades:
 	* Poder dibujar o no dibujar a discreción
 	* Poder borrar el canvas, partir de cero
