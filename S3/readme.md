@@ -34,17 +34,18 @@
 
 
 **Formato de entrega:**
-  * La carpeta que se entrega debe contener el sketch, ambos utilizarán la siguiente nomenclatura: **`E03_apellido_Nombre.zip`**
-  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
+  * Se entrega una sola carpeta, cuyo nombre es idéntico al del sketch de processing que contiene. Se utilizará la siguiente nomenclatura: **`E03_Apellido_Nombre`**
+  * En las primeras líneas del sketch de processing se especificará el nombre del alumno, fecha y nombre del sketch
+  * La carpeta se comprime en .zip antes de ser entregada (subida).
 
 **Dónde entregar:**
-  * Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/UpKFUTJLE6Kzo10CHqGN) antes de las 10:00 del Lunes 29 de Mayo, previo al curso.
+  * Subir la carpeta comprimida en .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/UpKFUTJLE6Kzo10CHqGN) antes de las 10:00 del Lunes 29 de Mayo, previo al curso.
 
 
   **Evaluación y multas:**
   * **Criterios de evaluación:**
   	* Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor.
-  	* Fidelidad de traducción: qué tan parecida es.
+  	* Uso de conocimientos aprendidos hasta ahora. Capacidad de ser inventivo con las herramientas vistas en clase.
   	* Limpieza, depuración y nivel de comentarios del código
   * **Entregas tardías:**
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
