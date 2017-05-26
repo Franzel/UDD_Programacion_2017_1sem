@@ -10,11 +10,8 @@
   * Crear una función propia
 * Data Types: `int, float, boolean`
 * Estructuras de control 1:
-  * For loops : Unidimensional y bidimensional, uso de funciones en un For Loop
   * Condicionales `if, else, else if`
-* Operador matemático: módulo `%`
-* Strings
-* Color modes `RGB, HSB`
+
 
 ## Para la próxima semana
 ### Video Sugerido

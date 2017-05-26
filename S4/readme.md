@@ -1,5 +1,11 @@
 # Programación 2017 - Semana 04
 ## Contenido de Hoy
+* Estructuras de control 2:
+  * Condicionales `if, else, else if`
+  * For loops : Unidimensional y bidimensional, uso de funciones en un For Loop
+* Color modes `RGB, HSB`
+* Operador matemático: módulo `%`
+* Strings
 * Arrays
   * Arrays unidimensionales
   * Arrays bidimensionales
