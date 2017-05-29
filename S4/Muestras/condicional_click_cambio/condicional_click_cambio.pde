@@ -1,5 +1,4 @@
-// Empieza el codigo
-boolean figura = true;
+boolean cuadrao = true;
 
 void setup() {
   size(400, 200);
@@ -8,21 +7,21 @@ void setup() {
 void draw() {
   background(255);
 
-  if (figura == true) {
+  if (cuadrao == true) {
     // haz una cosa
-    println("haz una rect");
+    println("soy un cuadrado");
     fill(#00C3DB);
     rect(width/2, height/2, 50,50);
   } else {
     // haz otra cosa
-    println("haz una ellipse");
+    println("no soy un cuadrado");
     fill(#BADA55);
     ellipse(width/2, height/2, 50,50);
   }
 }
 
 void mousePressed() {
-  figura = !figura;
+  cuadrao = !cuadrao;
 }
 
 // Fin del codigo
