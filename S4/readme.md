@@ -6,13 +6,7 @@
 * Color modes `RGB, HSB`
 * Strings
 * Operador matemático: módulo `%`
-* Arrays
-  * Arrays unidimensionales
-  * Arrays bidimensionales
-  * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
-  * Strings
-* Animación y dibujos radiales
-* sin/cos
+
 
 
 ## Para la próxima semana

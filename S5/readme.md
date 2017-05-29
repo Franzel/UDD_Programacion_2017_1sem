@@ -1,6 +1,13 @@
 # Programación 2017 - Semana 05
 ## Contenido de Hoy
 * Arrays y For loops
+* Arrays
+  * Arrays unidimensionales
+  * Arrays bidimensionales
+  * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
+  * Strings
+* Animación y dibujos radiales
+* sin/cos
 * Incorporación de Imágenes y Fuentes
 * `OOP` Introducción a la Programación Orientada a Objetos
 * Conversaremos sobre el Examen
@@ -33,7 +40,7 @@
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
-  
+
 ### Video sugerido
 * [What is an Array](https://www.youtube.com/watch?v=NptnmWvkbTw)
 * [Arrays I](https://www.acamica.com/clases/391/programacion-creativa-con-processing/arrays)
