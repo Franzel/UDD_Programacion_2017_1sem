@@ -1,12 +1,11 @@
 int nColumnas = 20;
 int nFilas = 20;
 
-float mover = 0.1;
 
 void setup() {
   background(0);
   size(500, 500);
-  //colorMode(HSB,360,100,100);
+  colorMode(HSB,360,100,100);
 }
 
 

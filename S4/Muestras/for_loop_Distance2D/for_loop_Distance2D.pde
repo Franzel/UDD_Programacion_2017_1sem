@@ -19,7 +19,7 @@ void draw()
   for (int i = 0; i <= width; i += 20) {
     for (int j = 0; j <= height; j += 20) {
       float size = dist(mouseX, mouseY, i, j);
-      size = size/maxDist * 30; //sacamos un porcentaje(0-1) y multiplicamos por tamano maximo
+      size = size/maxDist * 50; //sacamos un porcentaje(0-1) y multiplicamos por tamano maximo
       ellipse(i, j, size, size);
     }
   }
