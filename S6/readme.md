@@ -1,6 +1,6 @@
 # Programación 2017 - Semana 06
 ## Contenido de Hoy
-* OOP segunda Parte
+* * `OOP` Introducción a la Programación Orientada a Objetos
 * Arrays en el contexto de OOP
 * Arraylists
 * Hablaremos sobre el Examen
