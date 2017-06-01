@@ -1,9 +1,9 @@
 int [] misNumeros; // DECLARAMOS un array de ints
-String [] misPalabras = { "esto", "es", "bacan" }; // DECLARAMOS y ASIGNAMOS un array de Strings
+String [] misPalabras = { "esto", "es", "filete" }; // DECLARAMOS y ASIGNAMOS un array de Strings
 
 /*
 // shortcut para declarar y crear
-int [] myOtherNumbers = new int [5]; // solo otra manera de hacer lo mismo en un paso, ver abajo
+int [] misOtrosNumeros = new int [5]; // solo otra manera de hacer lo mismo en un paso, ver abajo
 */
 
 void setup() {

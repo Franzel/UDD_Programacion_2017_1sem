@@ -20,7 +20,6 @@ void setup() {
   }
 }
 
-
 void draw() {
   background(100, 200, 0);
   noStroke();
@@ -35,7 +34,7 @@ void draw() {
   for (int i=0; i<nColumnas; i++) {
     for (int j=0; j<nFilas; j++) {
 
-      if (i==18 && j== 12) {
+      if (i==nColumnas-1 && j==0) {
         fill(255, 0, 0);
       } else {
         fill(myNumber[i][j]);
@@ -44,4 +43,3 @@ void draw() {
     }
   }
 }
-
