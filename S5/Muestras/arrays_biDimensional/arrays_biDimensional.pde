@@ -1,6 +1,6 @@
 int nFilas = 20;
 int nColumnas = 20;
-float size = 20;
+float porte = 20;
 
 float myNumber [] [] = new float [nColumnas] [nFilas]; //misma sintaxis pero 2 brackets
 
@@ -39,7 +39,7 @@ void draw() {
       } else {
         fill(myNumber[i][j]);
       }
-      rect(size*i, size*j, 16, 16);
+      rect(porte*i, porte*j, 16, 16);
     }
   }
 }
