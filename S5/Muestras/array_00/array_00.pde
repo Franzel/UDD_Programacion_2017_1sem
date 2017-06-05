@@ -1,4 +1,5 @@
-float [] valoresA = {40, 80, 120, 160, 200};
+//declaramos, creamos y asignamos un array de floats
+float [] valoresA = {40, 80, 120, 160, 200}; //esta es solo una manera de crear arrays
 
 void setup() {
   size(500, 500);
