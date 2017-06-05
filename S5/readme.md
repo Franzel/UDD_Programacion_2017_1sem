@@ -5,36 +5,30 @@
   * Arrays y For Loops
   * Arrays bidimensionales
   * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
-  * Strings
-* Animación y dibujos radiales
-* sin/cos
-* Incorporación de Imágenes y Fuentes
-* `OOP` Introducción a la Programación Orientada a Objetos
-* Conversaremos sobre el Examen
 
 * **Referentes:**
   * [JOHN WHITNEY - CATALOG](https://www.youtube.com/watch?v=TbV7loKp69s)
   * [JOHN WHITNEY - EXPERIMENTS IN MOTION GRAPHICS](https://www.youtube.com/watch?v=TbV7loKp69s)
 
 ## Para la próxima semana
-### Encargo 05: sinTanCos
-  * Inicio: Semana 04
-  * Calificación: **25%** (del 70% nota final)
-  * Crear una pieza audiovisual e interactiva con el uso de `sin, cos, y tan`, inspirada en el trabajo de John Whitney y los algoritmo de Lissajous. A través de la interacción modificaremos ciertos parámetros que a su vez alterarán la animación y composición visual.
-  Se debe agregar un track de musica a la pieza que sea acorde a la animación diseñada.
+### Encargo 05: experimenta
+  * Inicio: Semana 05
+  * Calificación: **30%** (del 70% nota final)
+  * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora. Es de naturaleza bastante libre, por lo que se pondrá especial énfasis a el aspecto creativo y estético.
 
   **Formato de entrega:**
-  * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E04_apellido_Nombre.zip`**
-  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre dekl sketch
+  * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E05_Apellido_Nombre.zip`**
+  * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha, nombre del sketch y una breve explicación de la intención.
 
   **Dónde entregar:**
-    * Subir el la carpeta de su sketch a [esta carpeta de dropbox](https://www.dropbox.com/request/DzD9Hs8ScWzIFVzJfbT5) antes de las 10:00 del Lunes 5 de Junio, previo al curso.
+    * Subir el la carpeta de su sketch a [esta carpeta de dropbox](
+https://www.dropbox.com/request/JKPaPCWhBuVPtkbNLJ86) antes de las 10:00 del Lunes 12 de Junio, previo al curso.
 
 
   **Evaluación y multas:**
   * **Criterios de evaluación:**
-  	* Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor.
-  	* Fidelidad de traducción: qué tan parecida es.
+  	* Expresividad, complejidad y novedad.
+    * Useo de recursos aprendidos.
   	* Limpieza, depuración y nivel de comentarios del código
   * **Entregas tardías:**
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
