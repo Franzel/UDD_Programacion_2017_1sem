@@ -6,10 +6,6 @@
   * Arrays bidimensionales
   * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
 
-* **Referentes:**
-  * [JOHN WHITNEY - CATALOG](https://www.youtube.com/watch?v=TbV7loKp69s)
-  * [JOHN WHITNEY - EXPERIMENTS IN MOTION GRAPHICS](https://www.youtube.com/watch?v=TbV7loKp69s)
-
 ## Para la próxima semana
 ### Encargo 05: experimenta
   * Inicio: Semana 05
