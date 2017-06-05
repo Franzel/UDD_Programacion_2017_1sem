@@ -1,7 +1,7 @@
 /*
 Array and algorithmic animation example
-by Francisco Zamorano, 2017
-*/
+ by Francisco Zamorano, 2017
+ */
 
 int nElementos = 40;
 float angulo [];
@@ -35,7 +35,7 @@ void draw() {
 
     rotate( radians(angulo[i] * sin(speed)) );
     fill(angulo[i]*nElementos, 100, 100);
-    // stroke(angulo[i]*nElementos,100,100);
+    //stroke(angulo[i]*nElementos,100,100);
 
     rect(0, 0, porteInicial - (porteInicial/nElementos)*i, porteInicial - (porteInicial/nElementos)*i);
     popMatrix();
