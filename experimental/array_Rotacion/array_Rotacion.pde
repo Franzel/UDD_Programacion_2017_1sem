@@ -3,7 +3,7 @@ Array and algorithmic animation example
  by Francisco Zamorano, 2017
  */
 
-int nElementos = 40;
+int nElementos = 50;
 float angulo [];
 float porteInicial;
 
