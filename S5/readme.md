@@ -14,7 +14,8 @@
 ### Encargo 05: experimenta
   * Inicio: Semana 05
   * Calificación: **30%** (del 70% nota final)
-  * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora. Es de naturaleza bastante libre, por lo que se pondrá especial énfasis a el aspecto creativo y estético.
+  * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora, en especial el uso de funciones, for loops y arrays
+  * Este encargo es de naturaleza bastante libre, por lo que se pondrá especial énfasis a el aspecto creativo y estético.
 
   **Formato de entrega:**
   * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E05_Apellido_Nombre.zip`**
