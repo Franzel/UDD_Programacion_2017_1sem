@@ -1,3 +1,8 @@
+/*
+Este codigo no es funcional aun
+ */
+
+
 int nClicks = 100;
 float[] clickX = new float[nClicks];
 float[] clickY = new float[nClicks];
@@ -8,17 +13,21 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  
   if (dibujar) {
+    background(255);
     for (int i=0; i<clickX.length; i++) {
-      ellipse(clickX[i], clickY[i], 10, 10);
+      ellipse(clickX[i], clickY[i], 7, 7);
+      if (i>1) {
+        line(clickX[i], clickY[i], clickX[i-1], clickY[i-1]);
+      }
     }
   } else {
     background(255);
   }
 }
 
-void mouseDragged() {
+void mousePressed() {
   if (contadorClicks<nClicks-1) {
     contadorClicks ++;
   } else {
@@ -40,8 +49,9 @@ void keyPressed() {
       clickY[i] = 0;
     }
     background(255);
+    dibujar = false;
   }
-    if (key=='d') {
+  if (key=='d') {
     dibujar = true;
     background(255);
   }
