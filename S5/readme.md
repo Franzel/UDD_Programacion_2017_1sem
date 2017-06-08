@@ -24,8 +24,8 @@ https://www.dropbox.com/request/JKPaPCWhBuVPtkbNLJ86) antes de las 10:00 del Lun
 
   **Evaluación y multas:**
   * **Criterios de evaluación:**
-  	* Expresividad, complejidad y novedad.
-    * Useo de recursos aprendidos.
+  	* Expresividad, complejidad y novedad de la estetica e interacción.
+    * Uso de recursos aprendidos.
   	* Limpieza, depuración y nivel de comentarios del código
   * **Entregas tardías:**
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
