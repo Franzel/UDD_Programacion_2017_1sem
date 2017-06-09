@@ -20,6 +20,6 @@ void cara(float x, float y, float s, color c) {
   fill(c);
   ellipse(x, y, s, s);
   fill(0);
-  ellipse(x - s/3, y - s/8, s/4, s/4);
-  ellipse(x + s/3, y - s/8, s/4, s/4);
+  rectMode(CENTER);
+  rect(x,y+s/4,s/2,s/8);
 }
