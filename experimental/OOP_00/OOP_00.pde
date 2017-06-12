@@ -21,5 +21,5 @@ void cara(float x, float y, float s, color c) {
   ellipse(x, y, s, s);
   fill(0);
   rectMode(CENTER);
-  rect(x,y+s/4,s/2,s/8);
+  rect(x, y+s/4, s/2, s/8);
 }
