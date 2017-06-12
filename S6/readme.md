@@ -74,13 +74,13 @@
 
 
 **Evaluación y multas:**
-* **Criterios de evaluación:**
+###### **Criterios de evaluación:**
   * Expresividad, complejidad y novedad, tanto de la estéctica como de la interacción.
   * Variabilidad de entidades, riqueza del sistema y capacidades gráficas
   * Limpieza, depuración y nivel de comentarios del código
-* **Entregas tardías:**
+###### **Entregas tardías:**
 Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
-* **Especificaciones:**
+###### **Especificaciones:**
 Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
 
