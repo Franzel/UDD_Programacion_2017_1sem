@@ -8,7 +8,7 @@ Modificado de Sergio Majluf, Nov. 2106
 https://github.com/sergiomajluf/Programacion/tree/master/S6/Para%20Mostrar/miTaxi
 */
 
-int nAutos = 80;
+int nAutos = 1000;
 Auto [] autos = new Auto[nAutos];
 
 
@@ -21,10 +21,11 @@ void setup() {
 }
 
 void draw() { 
-  background(255);
-
+  
+    background(255);
   // llamamos a los metodos
   for (int i=0; i<nAutos; i++) {
+
     autos[i].dibuja();
     autos[i].avanza();
   }
