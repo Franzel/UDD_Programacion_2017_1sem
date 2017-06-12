@@ -53,11 +53,11 @@
 **Semana 09: Final**
 - Presentación colectiva. Se hará a modo de ¨feria expositiva¨, donde el sketch de c/u estará disponible a ser usado en cualquier minuto.
 - Cada alumno presentará a la clase brevemente sobre su trabajo.
-  - ***ver formatos de entrega más abajo***
+- ***ver formatos de entrega más abajo***
 
 #### **Formato y links de entrega:**
 
-**Anteproyecto**:
+###### **Anteproyecto**:
 - Carpeta comprimida en .zip, que incluye el pdf y el sketch de processing
 - Nomenclatura: **`EX_01_apellido_Nombre.zip`**
 - Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/QvioF5oOEP2LYxYT93hw) antes de las 10:00 del Lunes 19 de Junio, previo al curso.
